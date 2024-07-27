@@ -4,6 +4,6 @@ The Face Controlled Flappy Bird project is an innovative game that leverages fac
 
 # Developers
 1. Armaan Jagirdar
-2. Chinmay 
-3. Kashish
-4. Aaditya
+2. Chinmay Nagpal
+3. Kashish Gupta
+4. Aaditya Jain
